@@ -1,4 +1,4 @@
-# Hi 👋, I'm Maxime
+# Hello there 👋, I'm Maxime
 I'm a web developper in training from France</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif"> -->
 
