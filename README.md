@@ -15,16 +15,15 @@ I'm a web developper in training from France</h3>
 
 ## Languages & Tools
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-<br>
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=windows,vscode,github,docker&perline=5)
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,figma&perline=5)
+
+![My Skills](https://skillicons.dev/icons?i=php,mysql&perline=5)
 
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=futrr&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Language Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=futrr&show_icons=true&locale=en&layout=donut&theme=transparent" alt="Language Stats" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=futrr&theme=transparent" alt="Straks Stats" /></p>
