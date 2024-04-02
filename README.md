@@ -25,6 +25,6 @@ I'm a web developper in training from France</h3>
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=futrr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Language Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=futrr&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Language Stats" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=futrr&theme=radical" alt="Straks Stats" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=futrr&theme=transparent" alt="Straks Stats" /></p>
