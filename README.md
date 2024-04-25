@@ -13,11 +13,11 @@ I'm a web developper in training from France !
 
 ## Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,figma&perline=5)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=5)
 
 ![My Skills](https://skillicons.dev/icons?i=php,symfony,mysql&perline=5)
 
-![My Skills](https://skillicons.dev/icons?i=windows,vscode,github,docker&perline=5)
+![My Skills](https://skillicons.dev/icons?i=windows,vscode,github,docker,figma,trello&perline=5)
 
 
 ## Stats
