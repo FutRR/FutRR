@@ -1,7 +1,7 @@
 # Hello there 👋, I'm Maxime
 I'm a web developper in training from France !
 
-🌱 I’m currently learning **Symfony** & **JavaScript**
+🌱 I’m currently learning **Symfony** & **React**
 
 
 ## Connect with me
