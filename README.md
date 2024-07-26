@@ -1,3 +1,5 @@
+<img style="width:100%" src="https://github.com/FutRR/FutRR//banner-github.png">
+
 # Hello there 👋, I'm Maxime
 I'm a web developper in training from France !
 
