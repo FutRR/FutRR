@@ -1,7 +1,7 @@
 <img style="width:100%" src="https://github.com/FutRR/FutRR/blob/main/GH-Banner.png">
 
 # Hello there 👋, I'm Maxime
-I'm a web developper in training from France !
+I'm a front-end web developper from France !
 
 🌱 I’m currently learning **Symfony** & **React**
 
