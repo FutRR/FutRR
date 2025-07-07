@@ -3,8 +3,6 @@
 # Hello there 👋, I'm Maxime
 I'm a front-end web developper from France !
 
-🌱 I’m currently learning **Symfony** & **React**
-
 
 ## Connect with me
 
@@ -17,7 +15,7 @@ I'm a front-end web developper from France !
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap&perline=5)
 
-![My Skills](https://skillicons.dev/icons?i=php,symfony,mysql&perline=5)
+![My Skills](https://skillicons.dev/icons?i=php,symfony,java,mysql&perline=5)
 
 ![My Skills](https://skillicons.dev/icons?i=windows,vscode,github,docker,figma&perline=5)
 
