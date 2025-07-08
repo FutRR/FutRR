@@ -17,7 +17,7 @@ I'm a front-end web developper from France !
 
 ![My Skills](https://skillicons.dev/icons?i=php,symfony,java,mysql&perline=5)
 
-![My Skills](https://skillicons.dev/icons?i=windows,vscode,github,docker,figma&perline=5)
+![My Skills](https://skillicons.dev/icons?i=windows,vscode,git,docker,figma&perline=5)
 
 
 ## Stats
