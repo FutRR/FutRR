@@ -8,9 +8,11 @@ I'm a front-end web developper from France !
 
 ## Connect with me
 
-<a href="mailto:futterermaxime@gmail.com" target="blank">![My Skills](https://skillicons.dev/icons?i=gmail)</a>
-<a href="https://linkedin.com/in/maxime-futterer-19a7b5263/" target="blank">![My Skills](https://skillicons.dev/icons?i=linkedin)</a>
-<a href="https://instagram.com/futrr_" target="blank">![My Skills](https://skillicons.dev/icons?i=instagram)</a>
+<a href="mailto:futterermaxime@gmail.com" target="blank">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<br />
+<a href="https://linkedin.com/in/maxime-futterer-19a7b5263/" target="blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<br />
+<a href="https://instagram.com/futrr_" target="blank">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 
 ## Languages & Tools
