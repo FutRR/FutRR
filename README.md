@@ -3,6 +3,8 @@
 # Hello there 👋, I'm Maxime
 I'm a front-end web developper from France !
 
+🍃 Currently learning : Java & WordPress
+
 
 ## Connect with me
 
