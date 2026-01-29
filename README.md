@@ -5,13 +5,13 @@ I'm a full stack web developper from France!
 
 ## Connect with me
 
-<a href="mailto:futterermaxime@gmail.com" target="blank">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:futterermaxime@gmail.com" target="_blank">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-<a href="https://linkedin.com/in/maxime-futterer-19a7b5263/" target="blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://linkedin.com/in/maxime-futterer-19a7b5263/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<a href="https://instagram.com/futrr_" target="blank">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://instagram.com/futrr_" target="_blank">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
-<a href="https://soundcloud.com/mvxim6" target="blank">![image](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)</a>
+<a href="https://soundcloud.com/mvxim6" target="_blank">![image](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)</a>
 
 
 ## Languages
